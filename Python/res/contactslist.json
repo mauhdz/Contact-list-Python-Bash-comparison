@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "phone": "0222", 
+      "name": "Mau", 
+      "mail": "mau@gmail"
+    }, 
+    {
+      "phone": "0999", 
+      "name": "Mario", 
+      "mail": "mario@gmail"
+    }, 
+    {
+      "phone": "0888", 
+      "name": "Sara", 
+      "mail": "sara@gmail"
+    }, 
+    {
+      "phone": " 02233", 
+      "name": "Nicolas", 
+      "mail": "nicolas@gmail"
+    }, 
+    {
+      "phone": "765", 
+      "name": "Hola", 
+      "mail": "adios@gmail.com"
+    }, 
+    {
+      "phone": "666", 
+      "name": "Jose", 
+      "mail": "jose@gmail.com"
+    }
+  ]
+}
